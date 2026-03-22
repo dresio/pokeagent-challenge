@@ -10,4 +10,4 @@
 ## Run dev container
 
 - Open Dev Container menu in sidebar
-- Press the `Open Folder in Container` button. ![Dev Container Start](dev-container-start.png)
+- Press the `Open Folder in Container` button. ![Dev Container Start](media/dev-container-start.png)
