@@ -3,3 +3,4 @@ anthropic>=0.42.0
 torch>=2.4.0
 numpy
 pandas
+datasets
