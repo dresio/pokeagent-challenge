@@ -1,6 +1,6 @@
 {
   "name": "PokeAgent",
-  "image": "ghcr.io/dresio/pokeagent:0.2",
+  "image": "ghcr.io/dresio/pokeagent:0.3",
   "remoteUser": "vscode",
   "updateRemoteUserUID": true
 }
